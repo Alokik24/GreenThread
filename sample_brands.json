@@ -1,0 +1,23 @@
+[
+    {
+      "brand_name": "Patagonia",
+      "website_url": "https://www.patagonia.com",
+      "headquarters_location": "California, USA",
+      "founding_year": 1973,
+      "sustainability_score": 5,
+      "certifications": ["Fair Trade", "B Corp", "GOTS"],
+      "eco_materials": ["Organic Cotton", "Recycled Polyester", "Hemp"],
+      "production_methods": ["Water-saving dye process", "Low-energy production"],
+      "labor_policies": "Fair wages and safe conditions for all workers",
+      "carbon_neutral": true,
+      "recycling_programs": "Take-back program for used clothing",
+      "water_usage": "20% less water than industry standard",
+      "animal_welfare": "No fur, no leather",
+      "community_initiatives": ["Donates 1% revenue to environmental causes", "Funds reforestation projects"],
+      "transparency_level": "High transparency - publishes factory list",
+      "product_categories": ["Outerwear", "Activewear", "Accessories"],
+      "price_range": "$$ - $$$",
+      "last_scraped": "2024-11-07T12:00:00Z"
+    }
+  ]
+  
